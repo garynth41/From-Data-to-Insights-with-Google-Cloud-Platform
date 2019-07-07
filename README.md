@@ -1,0 +1,2 @@
+# From-Data-to-Insights-with-Google-Cloud-Platform
+Welcome to Exploring and Preparing your Data with BigQuery, the first course of our 4-course specialization; From Data to Insights with Google Cloud Platform. We are pleased to have you join us as we explore and query petabyte-scale datasets in BigQuery with SQL. You will also get hands on experience exploring and creating data processing pipelines through a new UI tool called Cloud Dataprep.
